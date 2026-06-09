@@ -1,0 +1,28 @@
+﻿ID;Title;Status;Folder;Emoji;Priority;Tags;Owner;CreatedBy;Description;Examples;Labels;Issues;Url
+T9919c7fe;shows the FAQ section;automated;/testomat/content/FAQ;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/9919c7fe
+T0d453232;mentions the free trial;automated;/testomat/content/FAQ;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/0d453232
+T1d17d9dd;mentions the credit card question;automated;/testomat/content/FAQ;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/1d17d9dd
+T63e4c7c0;mentions AI test generation;automated;/testomat/content/Features;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/63e4c7c0
+Tbbaf9fb5;mentions Manual testing;automated;/testomat/content/Features;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/bbaf9fb5
+T38e6f428;mentions Integrations;automated;/testomat/content/Features;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/38e6f428
+T1a4bea66;shows the company location;manual;/testomat/content/Footer Info;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/1a4bea66
+T3be61130;shows the contact email;manual;/testomat/content/Footer Info;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/3be61130
+T379df238;shows the copyright notice;manual;/testomat/content/Footer Info;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/379df238
+Tda48ce2e;shows the main heading;automated;/testomat/home-page/Hero Section;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/da48ce2e
+T6d464f44;"shows a ""Start for free"" call to action";automated;/testomat/home-page/Hero Section;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/6d464f44
+T94cfbb78;"shows a ""Schedule"" demo action";automated;/testomat/home-page/Hero Section;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/94cfbb78
+T73b446df;has Testomat in the title;automated;/testomat/home-page/Page Load;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/73b446df
+Ta808c23c;opens the testomat.io URL;automated;/testomat/home-page/Page Load;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/a808c23c
+Tf5d9be0d;shows the page body;automated;/testomat/home-page/Page Load;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/f5d9be0d
+Tec48230e;shows the trusted-by section;manual;/testomat/home-page/Social Proof;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/ec48230e
+Te7d68c9e;mentions tests run daily;manual;/testomat/home-page/Social Proof;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/e7d68c9e
+T002d68d6;shows the recent reviews section;manual;/testomat/home-page/Social Proof;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/002d68d6
+T01ea5717;has a Log In link;automated;/testomat/navigation/Account Actions;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/01ea5717
+T09bbfbe5;shows a Start for free action;automated;/testomat/navigation/Account Actions;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/09bbfbe5
+T50195646;shows a Schedule a demo action;automated;/testomat/navigation/Account Actions;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/50195646
+Tce8514e4;shows the Terms link;automated;/testomat/navigation/Footer Links;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/ce8514e4
+T92d95350;shows the Privacy link;automated;/testomat/navigation/Footer Links;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/92d95350
+Teb18d4db;shows the Contact us link;automated;/testomat/navigation/Footer Links;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/eb18d4db
+Td9f167f4;shows the Pricing link;manual;/testomat/navigation/Header Menu;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/d9f167f4
+Tf4a675f8;shows the Docs link;manual;/testomat/navigation/Header Menu;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/f4a675f8
+T45d2a964;shows the Blog link;manual;/testomat/navigation/Header Menu;;normal;;Yaro PanSoft;Yaro PanSoft;;;;;https://app.testomat.io/projects/tomat/test/45d2a964

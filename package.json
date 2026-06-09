@@ -1,0 +1,22 @@
+{
+  "name": "test-tms",
+  "version": "1.0.0",
+  "scripts": {
+    "test-run": "playwright test --workers 1",
+    "test-ui": "playwright test --workers 1 --ui"
+
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@testomatio/reporter": "^2.0.0",
+    "@types/node": "^25.9.2",
+    "@xray-app/playwright-junit-reporter": "^0.13.0",
+    "cross-env": "^10.1.0",
+    "dotenv": "^17.0.0",
+    "playwright-testrail-reporter": "^1.3.3",
+    "playwright-zephyr": "^1.2.0"
+  }
+}

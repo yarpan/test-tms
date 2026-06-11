@@ -3,7 +3,29 @@
   "version": "1.0.0",
   "scripts": {
     "test-run": "playwright test --workers 1",
-    "test-ui": "playwright test --workers 1 --ui"
+    "test-ui": "playwright test --workers 1 --ui",
+
+    "test:testomatio": "cross-env TESTOMATIO_REPORT=true playwright test --project=testomatio",
+    "test:testrail": "cross-env TESTRAIL_REPORT=true playwright test --project=testrail",
+    "test:xray": "cross-env XRAY_REPORT=true playwright test --project=xray && npm run report:xray",
+    "test:zephyr": "cross-env ZEPHYR_REPORT=true playwright test --project=zephyr",
+    "test:qasphere": "cross-env QASPHERE_REPORT=true playwright test --project=qasphere && npm run report:qasphere",
+
+    "testomatio-set-id": "cross-env TESTOMATIO=tstmt_qwanZh3l2Pn_PXaG1sDnPoUMT8ZSnpeAIQ1752154329",
+
+    "testomatio-push-update": "cross-env TESTOMATIO=tstmt_qwanZh3l2Pn_PXaG1sDnPoUMT8ZSnpeAIQ1752154329 npx check-tests@latest push -d testomat --update-ids",
+
+    "testomatio-pull": "cross-env TESTOMATIO=tstmt_qwanZh3l2Pn_PXaG1sDnPoUMT8ZSnpeAIQ1752154329 npx check-tests@latest pull -d testomat",
+   
+    "testomat-export-csv": "node scripts/generate-testomat-csv.js",
+
+    "testomat-count": "node scripts/count-test-cases.js",
+    "testomat-compare": "node scripts/compare-test-plan.js",
+
+    "report": "npx playwright show-report --port=9325",
+
+    "report:xray": "node helpers/reporters/xray-upload.js",
+    "report:qasphere": "npx qas-cli playwright-json-upload --create-tcases ./qasphere-report/results.json"
 
   },
   "dependencies": {
